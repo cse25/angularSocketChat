@@ -1,0 +1,25 @@
+{
+  "name": "socketchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-material": "^1.0.6",
+    "angular-messages": "^1.5.0",
+    "angular-ui-router": "^0.2.18",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "node": "0.0.0",
+    "socket.io": "^1.4.5",
+    "socket.io-client": "^1.4.5"
+  }
+}

@@ -1,0 +1,8 @@
+<div>
+  <div class="chatbox">
+    <span ng-repeat="messages in updated track by $index">{{messages}}<br></span>
+  </div>
+  <form class="messageInput" ng-submit="sendMessage()">
+    <input ng-model="chat.message" type="text" placeholder="enter a message">
+  </form>
+</div>
