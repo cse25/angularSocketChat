@@ -4,7 +4,7 @@
 * **Development Team Members**: [Daniel Kim](https://github.com/deehkim), [Daniel Russell](https://github.com/danielrussellLA)
 
 ## Usage
-* teach others how to set up a real-time socket chat app with angular and socket.io.
+* example of how to set up a real-time socket chat app with angular and socket.io.
 
 
 #### Dependencies and Running
